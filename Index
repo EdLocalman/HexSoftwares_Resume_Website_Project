@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"
+    content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src="img/eddy.jpg" alt="eddy" style="width:300px"; height="350px";>
+            </div>
+            <div class="Personal">
+                <h2>Personal Info</h2>
+                <p>
+                    <b>Name:</b>Edwin Thomo
+                </p>
+                
+            <div class="Contact">
+                <h2>Contact</h2>
+                <p>
+                    <b>Email:</b>edwinthomo@gmail.com
+                </p>
+                <p>
+                    <b>Cellphone no:</b>0630667657
+                </p>
+            </div>
+            <div class="Skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>
+                        <b>Programming Languages : </b>C#, Java
+                    </li>
+                    <li>
+                        <b>Frontend : </b>html, Css, Javascript
+                    </li>
+                    <li>
+                        <b>Backend:</b>SQL
+                    </li>
+                    <li>
+                        <b>IDEs:</b>Visual Studio
+                    </li>
+                </ul>
+            </div>
+            <div class="Langauge">
+                <h2>Langauge</h2>
+                <ul>
+                    <li>English</li>
+                </ul>
+            </div>
+            </div>
+            <div class="right">            
+                <div class="Hobbies">
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Watching the latest tech update</li>
+                    <li>gaming</li>
+                </ul>
+            </div>
+        </div>
+            <h2>Software Developer</h2>
+        </div>
+        <div class="Summary">
+            <h2>Summary</h2>
+            <p>
+                I am Software Developer who is looking for opportunities which include coding software for businesses and users, using my skills to create
+                softwares, and web applications. I would also like to expand my knowledge and skills whilst 
+                collaborating with other team members to achieve one common goal.
+            </p>
+        </div>
+        <div class="Soft skills">
+            <h2>Soft Skills</h2>
+            <ul>
+                <li>
+                    Problem Solving
+                </li>
+                <li>
+                    Communication
+                </li>
+                <li>
+                    Teamwork
+                </li>
+                <li>
+                    Time Management
+                </li>
+                <li>
+                    Critical thinking
+                </li>
+            </ul>
+        </div>
+        <div class="Experience">
+            <h2>Experience</h2>
+            <h3>HexSoftwares - Web Development intern</h3>
+            <p>October 2024-present</p>
+            <ul>
+                <li>
+                    Developing Web responsive web applications using Html, Css and jacascript
+                    that are easy to use and navigate for the user.
+                </li>
+            </ul>
+        </div>
+        
+        <div class="Education">
+            <h2>Education</h2>
+          <table border="1", style="border: 1px black;">
+            <tr>
+                <th>University</th>
+                <th>Year Graduated</th>
+                <th>Grade</th>
+            </tr>
+            <tr>
+             <td>DURBAN UNIVERSITY OF TECHNOLOGY</td>
+             <td>2021</td>
+             <td>67%</td>
+            </tr>
+        </table>
+        </div>
+    </div>
+</body>
+</html>
